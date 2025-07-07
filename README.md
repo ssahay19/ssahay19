@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Srishti</h1>
-<h3 align="center">CS Major @ UC Irvine | C++ Enthusiast | Building cool stuff in public</h3>
+<h3 align="center">CS Major @ UC Irvine 
 
 ---
 
@@ -8,7 +8,7 @@
 - 🧠 A visualizer for core algorithms (coming soon)
 
 🌱 **Learning & Growing**  
-- Data Structures & Algorithms (200+ Leetcode goal)  
+- Data Structures & Algorithms  
 - Mastering advanced C++ concepts  
 - Exploring Git, Linux, and low-level systems
 
