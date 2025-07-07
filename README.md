@@ -40,18 +40,8 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssahay19&show_icons=true&theme=radical&hide=stars&count_private=true" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssahay19&theme=radical" width="47%" />
-</p>
-
----
-
 ### ⚡ Fun Fact
-
-> I'm not just learning C++ — I’m turning it into a weapon for problem-solving, one bug at a time 🐛➡️🚫  
+ 
 > I believe *"clarity > cleverness"* when writing code.
 
 ---
