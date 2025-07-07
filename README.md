@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Srishti</h1>
+<h1 align="center">Hey there, I'm Srishti 👋</h1>
 <h3 align="center">CS Major @ UC Irvine </h1>
 
 ---
