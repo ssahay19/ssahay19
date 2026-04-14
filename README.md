@@ -20,7 +20,7 @@
 📫 **How to reach me**  
 - Email: `ssahay@uci.edu`  
 - LinkedIn: www.linkedin.com/in/srishti-sahay  
-- Portfolio: [in the works!]
+- Portfolio: https://srishtisahay.netlify.app/
 
 ---
 
